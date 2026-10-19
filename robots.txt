@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://primedbe.dokuwell.com/sitemap.xml
+Sitemap: https://primedbe.dokuline.com/sitemap.xml
